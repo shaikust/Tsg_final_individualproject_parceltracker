@@ -1,0 +1,19 @@
+.about{
+    background-image: url(C:\Users\208995\Desktop\react\login-register\src\images\pexels-ketut-subiyanto-4246238.jpg);
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.text{
+    padding-top: 50px;
+    color: rgb(16, 17, 17);
+    text-align: center;
+   font-size: large;
+}
+.text2{
+    padding-top: 50px;
+    color: rgb(16, 17, 17);
+    text-align: center;
+   font-size: x-large;
+   font-family: 'Times New Roman', Times, serif;
+}

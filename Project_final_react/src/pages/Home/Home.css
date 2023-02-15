@@ -1,0 +1,14 @@
+.admin{
+    position: relative ;
+  top: calc(25% - 75px);
+  left: calc(40% - 45px);
+  height: 50px;
+  width: 550px;
+  padding: 10px;
+  z-index: 2;
+}
+.main{
+  min-height: 750px;
+  background-image: url(/src/images/imgtrack.jpg);
+  background-size: cover;
+}

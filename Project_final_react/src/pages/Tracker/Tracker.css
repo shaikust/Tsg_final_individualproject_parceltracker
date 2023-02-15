@@ -1,0 +1,29 @@
+.tracker{
+  
+ 
+    position: relative;
+  top: calc(20% - 75px);
+  left: calc(35% - 45px);
+  /* height: 500px; */
+  width: 550px;
+  padding: 10px;
+  z-index: 2;
+}
+.input{
+  box-sizing: border-box;
+  /* padding-top: 15px; */
+  padding-bottom: 10%;
+  margin: 5% auto;
+  text-align: center;
+  top: calc(55% - 85px);
+  left: calc(45% - 45px);
+  font-size: 16px;
+  font-weight: 400;
+  color: #000;
+
+  
+  }
+  .table{
+    top: calc(55% - 85px);
+    width: 550px;
+  }
